@@ -1,0 +1,22 @@
+.center {
+  font-family: cursive;
+  color: brown;
+}
+
+.left {
+  border-spacing: 5px;
+  color: slateblue;
+  border: 1px solid black;
+  margin: 15px;
+}
+
+.right {
+  border-spacing: 5px;
+  color: lightsalmon;
+  border: 1px solid violet;
+  margin: 15px;
+}
+.default {
+  font-family: fantasy;
+  color: orange;
+}
